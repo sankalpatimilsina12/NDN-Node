@@ -14,8 +14,7 @@ project to work.
 ### Installing
 
 ```
-1. npm init
-2. npm install
+1. npm install
 ```
 
 ### Description
