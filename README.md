@@ -25,12 +25,13 @@ both the producer and consumer.
 
 ## Running 
 
-1. Run the consumer
-```
-node consumer.js
-```
 1. Run the producer
 ```
 node producer.js
+```
+
+2. Run the consumer
+```
+node consumer.js
 ```
 
