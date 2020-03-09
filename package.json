@@ -1,0 +1,21 @@
+{
+  "name": "ndn-implementation",
+  "version": "1.0.0",
+  "description": "Implementation of Named Data Networking flow.",
+  "main": "consumer.js",
+  "dependencies": {
+    "bottleneck": "^2.19.5",
+    "ndn-js": "^0.19.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node consumer.js"
+  },
+  "keywords": [
+    "ndn",
+    "nfd",
+    "ndn-ccl"
+  ],
+  "author": "Sankalpa Timilsina",
+  "license": "ISC"
+}
